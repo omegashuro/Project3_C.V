@@ -62,8 +62,6 @@
     align-items: center;
     position:absolute;
     top:30%;
-    right:10%;
-
 }
 .headings{
     font-family: century;
@@ -195,15 +193,12 @@
     position: fixed;
     bottom: 10px;
     left: 10px;
-    width: 15%;
-    height: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.icons a {
-    width: 33%;
-    height: 10%;
+.icons .icon-item {
+    padding: 10px;
 }
 body {
 }
