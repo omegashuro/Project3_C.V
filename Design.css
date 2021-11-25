@@ -172,11 +172,12 @@
     text-align: center;
     padding: 10px;
     border-radius: 15px;
-    background: linear-gradient(to top, gray(0, 0, 0,0.5) 100%);
+    background: linear-gradient(to top, rgba(0, 0, 0 ,0.5) 100%);
     background-size: 100% 200%;
     transition: all .8s;
     background-position: left;
-    color: white
+    color: white;
+
 }
 /*Contact section*/
 #contact {
