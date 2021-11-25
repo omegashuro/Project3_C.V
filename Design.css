@@ -101,7 +101,7 @@
     display:flex;
 }
 #pic{
-    width: 600px;
+    width: 400px;
     height:400px;
 }
 #intro{
@@ -178,8 +178,18 @@
 .icons{
     color: blue;
     background: white;
-    position: absolute;
-    
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    width: 15%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icons a {
+    width: 33%;
+    height: 10%;
 }
 body {
 }
