@@ -150,10 +150,11 @@
     margin:10px;
 }
 /*Service section*/
-#services{
+#services {
     display: flex;
     flex-direction: column;
-    padding:20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0,0.5);
 }
 .row{
     display: flex;
@@ -189,8 +190,6 @@
     height:100%
 }
 .icons{
-    color: blue;
-    background: white;
     position: fixed;
     bottom: 10px;
     left: 10px;
