@@ -143,6 +143,8 @@
     flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
+    width:400px;
+    height:400px;
 }
 /*width: 360px;
 height: 240px;
@@ -184,14 +186,14 @@ margin:10px;*/
 
 }
 /*Contact section*/
-#contact {
+/*#contact {
     display: flex;
     flex-direction: column;
     padding: 10px;
     background-color: rgba(0, 0, 0 ,0.5);
     color: white;
     height:100%
-}
+}*/
 .icons{
     position: fixed;
     bottom: 10px;
