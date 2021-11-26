@@ -185,6 +185,12 @@ margin:10px;*/
     color: white;
 
 }
+.box:hover{
+    background-position: left bottom;
+    color: white;
+    border:none;
+    box-shadow:0 0 20px #EA4335;
+}
 /*Contact section*/
 /*#contact {
     display: flex;
