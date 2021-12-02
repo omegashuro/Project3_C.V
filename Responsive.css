@@ -1,26 +1,30 @@
 ﻿/*Home*/
-#home{
-    height: 820px;
+@media screen (max-width: 728px) {
+    #home {
+        height: 820px;
+    }
+
+    .headings {
+        font-size: 107rem;
+    }
+    /*About*/
+    #pic img {
+        width: 300px;
+        height: 175px;
+    }
+
+    #intro h2 {
+        font-size: 1.5rem;
+    }
+    /*portfolio*/
+    .gallery img {
+        width: 250px;
+        height: 150px;
+        margin: 10px;
+    }
 
 }
-.headings{
-    font-size:107rem;
 
-}
-/*About*/
-#pic img{
-    width:300px;
-    height:175px;
-}
-#intro h2{
-    font-size:1.5rem;
-}
-/*portfolio*/
-.gallery img {
-    width: 250px;
-    height: 150px;
-    margin: 10px;
-}
 
 body
 {
