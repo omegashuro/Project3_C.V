@@ -7,17 +7,21 @@
     font-size: 107rem;
 }
 /*About*/
-/*#pic img {
-        width: 250px;
-        height: 50%;
-    }*/
+#pic {
+    display: flex;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
 .div-img {
-    width: 30%;
-    height: 50%
+    width: 50%;
+    height: 100%
 }
 .img{
     width: 100%;
-    height: 50%;
+    height: 100%;
 }
 
 #intro h2 {
