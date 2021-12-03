@@ -1,22 +1,22 @@
 ﻿/*Home*/
-@media only screen and (max-width: 600px){
+/*@media only screen and (max-width: 600px)*/{
 
-    #home {
+    /*#home {
         height: 820px;
     }
 
     .headings {
         font-size: 107rem;
-    }
+    }*/
     /*About*/
-    #pic {
+    /*#pic {
         display: flex;
         height: 90%;
         justify-content: center;
         align-items: center;
         flex-direction: column;
         width: 100%;
-    }
+    }*/
 
     /*.div-img {
         width: 50%;
@@ -28,17 +28,17 @@
         height: 50%;
     }*/
 
-    #intro h2 {
+    /*#intro h2 {
         font-size: 1.5rem;
-    }
+    }*/
     /*portfolio*/
-    .gallery img {
+    /*.gallery img {
         width: 250px;
         height: 150px;
         margin: 10px;
     }
 
-}
+}*/
 
 
 body
