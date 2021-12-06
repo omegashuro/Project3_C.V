@@ -99,7 +99,7 @@
     align-items: center;
     position: absolute;
     top: 30%;
-    animation: moveright 1s linear 1s;
+    animation: movedown 1s linear 1s;
     animation-delay: 1s;
     visibility: hidden;
     animation-fill-mode: forwards;
